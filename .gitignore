@@ -1,0 +1,13 @@
+
+/__pycache__
+/ui/views/__pycache__
+/ui/__pycache__
+/infrastructure/parsers/__pycache__
+/infrastructure/exporters/__pycache__
+/infrastructure/categorizers/__pycache__
+/domain/models/__pycache__
+/infrastructure/__pycache__
+/domain/interfaces/__pycache__
+/domain/__pycache__
+/application/use_cases/__pycache__
+/application/__pycache__
