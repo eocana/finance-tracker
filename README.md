@@ -2,8 +2,6 @@
 
 Herramienta de escritorio en Python y CustomTkinter para gestionar extractos bancarios personales. Lee PDFs de Santander y CSVs de PayPal, cruza los cobros automáticamente y exporta a un Excel formateado.
 
-> Proyecto de portfolio orientado a demostrar principios de arquitectura limpia y patrones de diseño en Python.
-
 ---
 
 ## Características principales
